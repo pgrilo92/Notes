@@ -26,7 +26,7 @@ app.listen(port, ()=> {
 ```
 ### Running the App
 ```console
-$ node server.js
+$ npm start
       or
 $ nodemon (if nodemon already installed)
 ```
