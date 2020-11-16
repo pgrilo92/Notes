@@ -28,5 +28,5 @@ app.listen(port, ()=> {
 ```console
 $ node server.js
       or
-$ nodemon (if nodemoan already installed)
+$ nodemon (if nodemon already installed)
 ```
